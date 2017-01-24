@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DiscoKat.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>MessagesExtension.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>TempExtension.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>31494B311E1E6FD00066A979</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>31494B471E1E700D0066A979</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>318CC4E91E2CC3850099E97D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>318CC52C1E2CC9A80099E97D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>31CE19971E2D1DE600D8541A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5B5CA1A91DB63F1800D24521</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
